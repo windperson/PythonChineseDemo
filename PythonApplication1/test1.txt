@@ -1,0 +1,3 @@
+﻿This is english line.
+這一行是繁體中文字
+此为简体中文字书写
